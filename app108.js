@@ -14,5 +14,10 @@ console.log(z)
 
 //Multipliction Assignment[-=]
 let a = 20
-a *= 10//a = a * 10 = 200
+a *= 10//a = a * 10
 console.log(a)
+
+//Remainder Assignment[%=]
+let b = 20
+b %= 3 //b = b % 3
+console.log(b)
