@@ -21,3 +21,8 @@ console.log(a)
 let b = 20
 b %= 3 //b = b % 3
 console.log(b)
+
+//Exponentiation Assignment[**=]
+let c = 10
+c **= 3 //c = c**3
+console.log(c)
